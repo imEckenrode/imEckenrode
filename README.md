@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello There
+
+I am Ian Eckenrode, a Computer Science and Mathematics dual major at Penn State. I have interned in the world of software development for the past three years and am aiming for a full-time position once I graduate in December.
+
+I love solving problems, learning, and creating. An internet search of my name finds my high school sports, but will not find the music and games I make with my siblings, nor will it find my volleyball team, workout plans, or home movies. Of all my skillsets, I most enjoy the struggles and successes throughout the software development process; planning, programming, testing, and presenting.
+
+I use this profile to manage my newer personal projects (unfortunately I did not learn Git at age 12), so if you're reading this, welcome to the first commit of my personal Readme!
 
 <!--
 **imEckenrode/imEckenrode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
