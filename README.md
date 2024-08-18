@@ -1,4 +1,4 @@
-## Hello There
+## Hello There 👋
 
 I am Ian Eckenrode, a Computer Science and Mathematics dual major at Penn State. I have interned in the world of software development for the past three years and am aiming for a full-time position once I graduate in December.
 
